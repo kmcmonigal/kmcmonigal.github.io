@@ -7,6 +7,9 @@ description: |
   Graduate Student in
   Physical Oceanography
 owner: Kayleen McMonigal # or company name
+author: Kay McMonigal
+author: K McMonigal
+author: KT McMonigal
 first_published: 2016 # if migrating another site, the year of your first publish
 email: kmcmonigal@rsmas.miami.edu
 baseurl: "" # the subpath of your site, e.g. /blog
