@@ -4,8 +4,9 @@
 # Site settings
 title: Kay McMonigal
 description: |
-  Post doc at NCSU
-  working with Sarah Larson
+  Incoming assistant professor
+  University of Alaska Fairbank
+  College of Fisheries and Ocean Sciences
 owner: Kayleen McMonigal # or company name
 author: Kay McMonigal
 author: K McMonigal
@@ -14,14 +15,14 @@ author: Kayleen McMonigal
 first_published: 2016 # if migrating another site, the year of your first publish
 email: kmcmonigal@rsmas.miami.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kmcmonigal.com" # the base hostname & protocol for your site
+url: "http://kmcmonigal.github.io" # the base hostname & protocol for your site
 social:
   #twitter: #https://twitter.com/<username>
   github: https://github.com/kayleenmc
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
-  email: kmcmonigal@rsmas.miami.edu
+  email: ktmcmonigal@alaska.edu
   #flickr:
   #instagram:
   #youtube-square:
