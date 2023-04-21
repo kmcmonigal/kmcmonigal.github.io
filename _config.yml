@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: Ocean-climate interactions group at UAF
+title: Ocean-climate interactions group
 description: |
   McMonigal research group 
   at the University of Alaska Fairbanks
@@ -12,12 +12,12 @@ author: K McMonigal
 author: KT McMonigal
 author: Kayleen McMonigal
 first_published: 2016 # if migrating another site, the year of your first publish
-email: kmcmonigal@rsmas.miami.edu
+email: ktmcmonigal@alaska.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kmcmonigal.github.io" # the base hostname & protocol for your site
 social:
-  #twitter: #https://twitter.com/<username>
-  github: https://github.com/kayleenmc
+  twitter: https://twitter.com/kmcmonigal
+  github: https://github.com/kmcmonigal
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
